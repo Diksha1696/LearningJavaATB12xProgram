@@ -9,7 +9,7 @@ public class task1 {
         // ...
         // 5X10 = 50
         int num = 5;
-        System.out.println(%d X 1, num);
+
         
     }
 }

@@ -12,5 +12,7 @@ public class Lab007_comments_shortcut {
         System.out.println("Hi");
         System.out.println("Hi");
         System.out.println("Hi");
+        System.out.println("Hi");
+        //ctrl+D is the shortcut for duplicate
     }
 }
