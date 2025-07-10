@@ -2,8 +2,7 @@ package Ex_02_Java_Basics_Part2;
 
 public class Lab022_Numerics_Datatypes {
     public static void main(String[] args) {
-        byte b = 128; //-128 to 127 //not valid
-        byte b = 10;
+        byte b = 127; //-128 to 127 //not valid
         int i =10;
         short s = 10;
         char c = 'A';

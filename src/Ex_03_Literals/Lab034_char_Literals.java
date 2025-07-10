@@ -3,7 +3,7 @@ package Ex_03_Literals;
 public class Lab034_char_Literals {
     public static void main(String[] args) {
         char c1 = 'A'; //A-Z, a-z, $@@!$%%^&&)( - can be anything
-        char c = "A"; //double quotes is not char , it is always string
+        char c = 'A'; //"A" double quotes is not char , it is always string
 
         //java uses some escape char also
         char new_line = '\n';
